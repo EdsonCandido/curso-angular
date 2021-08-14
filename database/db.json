@@ -1,0 +1,10 @@
+{
+  "cursos":[
+    {"id": 1, "nome": "Angular"},
+    {"id": 2, "nome": "AngularJs"},
+    {"id": 3, "nome": "React"},
+    {"id": 4, "nome": "PHP"},
+    {"id": 5, "nome": "Java"},
+    {"id": 6, "nome": "C++"}
+  ]
+}
